@@ -11,7 +11,7 @@ echo -e '\033[31;40;1m
 
       \e[35m      ☠         Code  : SalihGultekin     ☠
 	  \e[34m☠	     Github : slhgltkn       ☠
-	 \e[33m☠  	    Youtube :                 ☠
+	 \e[33m☠  	     :) :)  :                 ☠
 	\e[32m☠ 	   İnstagram : @slhgltkn        ☠
 	
 	\e[36m 	 ☾★ ☾★ BY Salih Gultekin :) ☾★ ☾★	
