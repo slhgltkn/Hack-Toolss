@@ -1,7 +1,6 @@
 #!/bin/bash
 #Code:SalihGultekin
-#İnstagram: @slhgltkn
-#Youtube : 
+#İnstagram: @slhgltkn 
 echo -e '\033[31;40;1m 
 		   ─────█─▄▀█──█▀▄─█─────
 		   ────▐▌ ──Salih──▐▌────
